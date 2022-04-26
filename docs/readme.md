@@ -952,6 +952,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 ### France
 
 - [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
+- [1001interims](https://www.1001interims.com/) - :fr: - Focused on France
 - [Salaires en France](https://www.journaldunet.com/business/salaire/france/pays-fra) - :fr: - Salaries in France
 - [Simulateur salaire brut et net](https://droit-finances.commentcamarche.com/faq/83832-simulateur-salaire-brut-et-net-module-de-calcul) - :fr: Brut / Net calculator
 
